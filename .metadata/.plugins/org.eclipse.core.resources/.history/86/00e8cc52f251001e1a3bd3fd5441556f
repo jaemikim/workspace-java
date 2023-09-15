@@ -1,0 +1,17 @@
+package kr.co.himedia.loop;
+
+public class ForTest04 {
+
+	public static void main(String[] args) {
+		
+		// 2의 배수를 출력하시오
+		
+		int sum = 0;
+		
+		for(int i = 0; i < 10; i++) {
+			sum = i * 2;
+			
+			System.out.println(sum);
+		}
+	}
+}

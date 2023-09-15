@@ -1,0 +1,42 @@
+package kr.co.himedia.loop02;
+
+import java.util.Scanner;
+
+/*
+ * 구구단을 출력합니다.
+ * 몇 단부터 출력할까요? : (입력 3)
+ * 끝 단은 얼만인가요?	  (입력 5)
+ * 
+ * ========================== 3단 ===================
+ * 3*1 ~~~
+ * ========================== 4단 ===================
+ * 4*1 ~~~
+ * ========================== 5단 ===================
+ * 5*1 ~~~
+ */
+public class NestedLoopTest03 {
+
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.print("몇 단부터 출력할까요? ");
+		int i = scan.nextInt();
+		
+		System.out.print("끝 단부터 출력할까요? ");
+		int j = scan.nextInt();
+		
+		if(i > 1 && i < 10) {
+			
+			for( i = i ; i < j ; i++) {				
+				System.out.println(" ========================== "+ i+"단 ===================");
+				for(j = 1; j < 10; j++) {
+					System.out.println(i + "*" + j + " = " +(i*j));
+				}
+				System.out.println();
+			}
+		}
+		scan.close();
+		
+	}
+}

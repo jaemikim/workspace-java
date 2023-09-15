@@ -1,0 +1,17 @@
+package kr.co.himedia.loop05;
+
+import java.util.Scanner;
+
+public class MyCalculatorApp {
+
+	public static void main(String[] args) {
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		while(true) {
+			
+		}
+		
+		//scanner.close();
+	}
+}

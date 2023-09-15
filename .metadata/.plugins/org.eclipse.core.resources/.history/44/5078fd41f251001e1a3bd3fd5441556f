@@ -1,0 +1,9 @@
+package kr.co.himedia.loop;
+
+public class ForTest04 {
+
+	public static void main(String[] args) {
+		
+		
+	}
+}

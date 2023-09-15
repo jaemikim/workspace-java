@@ -1,0 +1,16 @@
+package kr.co.himedia.member;
+
+// 학생 클래스를 생성하여 객체(인스턴스)에 각각 다른 이름과 주소를 대입함
+public class StudentTest {
+
+	public static void main(String[] args) {
+		
+		Student student1 = new Student();
+		student1.studentName = "이순신";
+		student1.address = "서울 강동구";
+		
+		student1.showStudentInfo();
+		
+		//앞에는 타입 선언 뒤에는 이름(변수)
+	}
+}

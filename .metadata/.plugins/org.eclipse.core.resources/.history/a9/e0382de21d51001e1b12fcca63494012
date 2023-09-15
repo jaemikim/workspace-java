@@ -1,0 +1,18 @@
+package kr.co.himedia.decision;
+
+public class IfTest02 {
+
+	public static void main(String[] args) {
+		
+		//Quiz1
+		//x의 값이 0보다 큰 경우에만 "양수입니다." 출력하시오.
+		
+		int x = 10;
+		
+		if(x > 0) {
+			System.out.println("양수입니다.");
+		}
+		
+		
+	}
+}

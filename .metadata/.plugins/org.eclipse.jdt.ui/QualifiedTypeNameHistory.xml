@@ -7,4 +7,10 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="kr.co.himedia.field02.FieldInit"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.constructor.Student"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.constructor02.UserInfo"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.encapsulation.DisplayAddress"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.this0.Person"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.goingtoacademy.Student"/>
 </qualifiedTypeNameHistroy>

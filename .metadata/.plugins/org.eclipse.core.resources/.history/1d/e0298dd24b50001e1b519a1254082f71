@@ -1,9 +1,0 @@
-package kr.co.himedia.conversion;
-
-public class TypeConversionTest {
-	
-	public static void main(String[] args) {
-		
-	}
-
-}

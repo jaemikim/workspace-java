@@ -17,8 +17,14 @@ public class Bus {
 //		this.busIncom = busIncom;
 	}
 	
-	public void busGo() {
+	public void busGo(int busIncom) {
+		this.busIncom += busIncom;
+		this.busPerson++;
 		
+	}
+	
+	public void showInfo() {
+		System.out.println(busNumber + "번의 버스는 승객은" + busPerson + " 명이고 수입은 " + busIncom + "입니다." );
 	}
 
 //	@Override

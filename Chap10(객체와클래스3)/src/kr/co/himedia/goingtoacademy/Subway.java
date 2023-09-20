@@ -17,6 +17,16 @@ public class Subway {
 	}
 
 	
+	public void subwayGo(int subwayIncom) {
+		this.subwayIncom += subwayIncom;
+		this.subwayPerson++;
+		
+	}
+	
+	
+	public void showInfo() {
+		System.out.println(subwayNumber + "호선 지하철의 승객은" + subwayPerson + " 명이고 수입은 " + subwayIncom + "입니다." );
+	}
 //	@Override
 //	public String toString() {
 //		return this.subwayNumber ;

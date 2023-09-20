@@ -13,4 +13,14 @@
     <fullyQualifiedTypeName name="kr.co.himedia.encapsulation.DisplayAddress"/>
     <fullyQualifiedTypeName name="kr.co.himedia.this0.Person"/>
     <fullyQualifiedTypeName name="kr.co.himedia.goingtoacademy.Student"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.goingtoacademy02.Student"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.goingtoacademy02.Subway"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.goingtoacademy02.Taxi"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.global.StaticTest"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.global.NonStaticTest"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.global.Cat"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.global02.Employee"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.global03.Employee"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.singleton02.Car"/>
 </qualifiedTypeNameHistroy>

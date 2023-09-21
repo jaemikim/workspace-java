@@ -16,8 +16,10 @@ public class Car {
 	private int carNumber;
 		
 	public Car () {
-		Car.serialNum++;
-		this.carNumber = serialNum;
+		//Car.serialNum++;
+		//this.carNumber = serialNum;
+		serialNum++;
+		carNumber = serialNum;
 	}
 
 	public static int getSerialNum() {

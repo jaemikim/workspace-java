@@ -23,4 +23,13 @@
     <fullyQualifiedTypeName name="kr.co.himedia.global02.Employee"/>
     <fullyQualifiedTypeName name="kr.co.himedia.global03.Employee"/>
     <fullyQualifiedTypeName name="kr.co.himedia.singleton02.Car"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.array02.Book"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.arraylist.Subject"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.arraylist.Student"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.arraylist02.Student"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Shape"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.java.NewArrayNode"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Circle"/>
 </qualifiedTypeNameHistroy>

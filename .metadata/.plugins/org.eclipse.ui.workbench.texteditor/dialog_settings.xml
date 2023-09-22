@@ -6,14 +6,16 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="EmployeeId"/>
+		<item key="selection" value="public"/>
 		<list key="findhistory">
+			<item value="private"/>
 			<item value="employeeId"/>
 			<item value="setSecond"/>
 			<item value="이순신, 30, 010-1234-5678, admiral@gmail.com, 서울, 80.6kg"/>
 			<item value="&#x09;&#x09;System.out.println(!(x &gt; 0));"/>
 		</list>
 		<list key="replacehistory">
+			<item value="public"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">

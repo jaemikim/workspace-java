@@ -1,5 +1,7 @@
 package kr.co.himedia.array;
 
+class Box {}
+
 public class ArrayTest {
 
 	public static void main(String[] args) {
@@ -44,7 +46,7 @@ public class ArrayTest {
 		
 		
 		//객체 대상 1차원 배열
-		//Box[] arr7 = new Box[5];
+		Box[] arr7 = new Box[5];
 		
 		//배열의 사이즈 출력
 		System.out.println("배열 arr1 길이 : " + arr1.length);
@@ -53,7 +55,7 @@ public class ArrayTest {
 		System.out.println("배열 arr4 길이 : " + arr4.length);
 		System.out.println("배열 arr5 길이 : " + arr5.length);
 		System.out.println("배열 arr6 길이 : " + arr6.length);
-		//System.out.println("배열 arr7 길이 : " + arr7.length);
+		System.out.println("배열 arr7 길이 : " + arr7.length);
 
 	}
 }

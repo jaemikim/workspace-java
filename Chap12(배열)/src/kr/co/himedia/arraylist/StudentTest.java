@@ -15,6 +15,20 @@ public class StudentTest {
 
 	public static void main(String[] args) {
 		
+		Student studentL = new Student(2023, "Lee");
+		
+		studentL.addSubject("국어", 100);
+		studentL.addSubject("수학", 70);
+		
+		studentL.showInfo();
+		
+		System.out.println("---------------------------------");
+		Student studentS = new Student(2022, "Shin");
+		studentS.addSubject("국어", 70);
+		studentS.addSubject("수학", 90);
+		studentS.addSubject("영어", 100);
+		
+		studentS.showInfo();
 		
 	}
 }

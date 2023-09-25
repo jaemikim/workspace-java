@@ -29,7 +29,9 @@
     <fullyQualifiedTypeName name="kr.co.himedia.arraylist.Student"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="kr.co.himedia.arraylist02.Student"/>
-    <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Shape"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.java.NewArrayNode"/>
     <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Circle"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Shape"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Point"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Triangle"/>
 </qualifiedTypeNameHistroy>

@@ -1,6 +1,8 @@
 package kr.co.himedia.array02;
 
 public class ObjectCopy02 {
+	
+	
 
 	public static void main(String[] args) {
 		

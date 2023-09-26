@@ -27,11 +27,23 @@
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="kr.co.himedia.arraylist.Subject"/>
     <fullyQualifiedTypeName name="kr.co.himedia.arraylist.Student"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="kr.co.himedia.arraylist02.Student"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.java.NewArrayNode"/>
     <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Circle"/>
     <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Shape"/>
     <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Point"/>
     <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Triangle"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance02.Customer"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance02.VIPCustomer"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance03.Customer"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance03.VIPCustomer"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.polymorphism.Dog"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.polymorphism.Animal"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.polymorphism.Eagle"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.polymorphism.AnimalTest"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance04.GoldCustomer"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance04.VIPCustomer"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance04.Customer"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.polymorphism.Tiger"/>
 </qualifiedTypeNameHistroy>

@@ -14,10 +14,18 @@ public class Triangle extends Shape {
 	}
 	
 	
+	public Triangle(Point[] points) {
+		System.out.println("Triangle의 매개변수 point 배열 호출");
+		this.point = points;
+	}
+	
+	
+	
 	@Override
 	public void draw() {
 		System.out.println("[point1] : " + this.point[0].x + ", " + this.point[0].y);
 		System.out.println("[point2] : " + this.point[1].x + ", " + this.point[1].y);
 		System.out.println("[point3] : " + this.point[2].x + ", " + this.point[2].y);
 	}
+	
 }

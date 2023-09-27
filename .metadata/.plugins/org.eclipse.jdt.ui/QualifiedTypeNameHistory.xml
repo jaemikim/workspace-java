@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="kr.co.himedia.variable02.BinaryTest02"/>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
@@ -46,4 +43,21 @@
     <fullyQualifiedTypeName name="kr.co.himedia.inheritance04.VIPCustomer"/>
     <fullyQualifiedTypeName name="kr.co.himedia.inheritance04.Customer"/>
     <fullyQualifiedTypeName name="kr.co.himedia.polymorphism.Tiger"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.abstractclass.NoteBook"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.abstractclass.Computer"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.abstractclass.DeskTop"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.abstractclass.MyNoteBook"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.abstractclass02.SelfControlCar"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.finalkeyword.Define"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.interface01.Audio"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.interface01.RemoteControl"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.interface01.Television"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.interface02.Calculator"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.interface02.Calc"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.interface02.ComleteCalculator"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.interface03.userinfo.UserInfoDTO"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.interface03.userinfo.dao.UserInfoDAO"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.interface03.userinfo.dao.oracle.UserInfoOracleDAO"/>
 </qualifiedTypeNameHistroy>

@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="kr.co.himedia.field02.FieldInit"/>
-    <fullyQualifiedTypeName name="kr.co.himedia.constructor.Student"/>
-    <fullyQualifiedTypeName name="kr.co.himedia.constructor02.UserInfo"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
-    <fullyQualifiedTypeName name="kr.co.himedia.encapsulation.DisplayAddress"/>
-    <fullyQualifiedTypeName name="kr.co.himedia.this0.Person"/>
     <fullyQualifiedTypeName name="kr.co.himedia.goingtoacademy.Student"/>
     <fullyQualifiedTypeName name="kr.co.himedia.goingtoacademy02.Student"/>
     <fullyQualifiedTypeName name="kr.co.himedia.goingtoacademy02.Subway"/>
@@ -60,4 +51,13 @@
     <fullyQualifiedTypeName name="kr.co.himedia.interface03.userinfo.UserInfoDTO"/>
     <fullyQualifiedTypeName name="kr.co.himedia.interface03.userinfo.dao.UserInfoDAO"/>
     <fullyQualifiedTypeName name="kr.co.himedia.interface03.userinfo.dao.oracle.UserInfoOracleDAO"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.review.Dog"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.review.Cat"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.review.Animal"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.review.PolyMethodArgTypeTest"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.review.PolyArrayTypeTest"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.review02.Animal"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.review02.Dog"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.review02.Cat"/>
 </qualifiedTypeNameHistroy>

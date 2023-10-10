@@ -31,7 +31,7 @@ public class EqualsTest {
 		Student student2 = new Student(2023, "HiMedia");
 		
 		System.out.println();
-		System.out.println(student1 = student2);
+		System.out.println(student1 == student2);
 		System.out.println(student1.equals(student2)); //주소값 거짓 재정의가 안되어 있어서 
 		
 		System.out.println();

@@ -6,8 +6,10 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="student"/>
+		<item key="selection" value="addMember"/>
 		<list key="findhistory">
+			<item value="addMember"/>
+			<item value="set"/>
 			<item value="// TODO Auto-generated method stub"/>
 			<item value="student"/>
 			<item value="private"/>

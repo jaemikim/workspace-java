@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="addMember"/>
+		<item key="selection" value="inTest"/>
 		<list key="findhistory">
+			<item value="intest"/>
 			<item value="addMember"/>
 			<item value="set"/>
 			<item value="// TODO Auto-generated method stub"/>

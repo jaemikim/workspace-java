@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="kr.co.himedia.interface08.Distribution"/>
-    <fullyQualifiedTypeName name="kr.co.himedia.interface08.RoundRobinCall"/>
-    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
-    <fullyQualifiedTypeName name="kr.co.himedia.object.Student"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="kr.co.himedia.string.StringTokenizerTest"/>
-    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
-    <fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
-    <fullyQualifiedTypeName name="org.jcp.xml.dsig.internal.dom.DOMHMACSignatureMethod"/>
-    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
-    <fullyQualifiedTypeName name="kr.co.himedia.review.Remocon"/>
     <fullyQualifiedTypeName name="kr.co.himedia.review.review04.MaxMinFinder"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="com.google.gson.Gson"/>
     <fullyQualifiedTypeName name="kr.co.himedia.review.review06.IntArray"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
@@ -59,5 +46,18 @@
     <fullyQualifiedTypeName name="kr.co.himedia.set02.MemberHashSet"/>
     <fullyQualifiedTypeName name="kr.co.himedia.map02.MemberHashMap"/>
     <fullyQualifiedTypeName name="kr.co.himedia.innerclass.OuterClass"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.gson.Member"/>
+    <fullyQualifiedTypeName name="com.google.gson.Gson"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.nestedgson.Person"/>
+    <fullyQualifiedTypeName name="javax.sound.midi.SysexMessage"/>
+    <fullyQualifiedTypeName name="org.jsoup.Jsoup"/>
+    <fullyQualifiedTypeName name="org.jsoup.nodes.Document"/>
+    <fullyQualifiedTypeName name="org.jsoup.nodes.Element"/>
+    <fullyQualifiedTypeName name="org.jsoup.select.Elements"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.innerclass.OutClass.InClass"/>
     <fullyQualifiedTypeName name="kr.co.himedia.innerclass.OutClass"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.innerclass.OutClass.inStaticClass"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.innerclass.OutClass.InStaticClass"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.innerclass.Outer"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
 </qualifiedTypeNameHistroy>

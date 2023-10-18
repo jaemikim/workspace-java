@@ -9,7 +9,7 @@ public class StreamTest {
 
 	public static void main(String[] args) {
 		
-		Stream<String> strStream = Stream.of("곧 연말이", "다가 오니다.", "연휴가 그때 도 있겠죠?");
+		Stream<String> strStream = Stream.of("곧 연말이", "다가 옵니다.", "연휴가 그때 또 있겠죠?");
 		List<String> str = strStream.collect(Collectors.toList());
 		System.out.println(str);
 		

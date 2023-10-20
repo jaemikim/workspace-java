@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="inTest"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value=", "/>
 			<item value="intest"/>
 			<item value="addMember"/>
 			<item value="set"/>
@@ -20,6 +21,7 @@
 			<item value="&#x09;&#x09;System.out.println(!(x &gt; 0));"/>
 		</list>
 		<list key="replacehistory">
+			<item value=""/>
 			<item value="public"/>
 		</list>
 	</section>

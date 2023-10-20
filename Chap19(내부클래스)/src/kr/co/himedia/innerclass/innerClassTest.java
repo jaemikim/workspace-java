@@ -51,7 +51,7 @@ public class innerClassTest {
 	public static void main(String[] args) {
 		
 		OutClass outClass = new OutClass();
-		System.out.println("외부 클래스(outClass) 변수를 이용해서 내부 클래스 기능 호출");
+		System.out.println("외부 클래스 변수를 이용해서 내부 클래스 기능 호출");
 		outClass.usingInClass();  //외부클래스 이용하여 내부 클래스 메서드 호출
 		
 		System.out.println();
@@ -59,6 +59,7 @@ public class innerClassTest {
 		//(이미 만들어진) 외부클래스를 이용하여 내부 클래스 생성
 		OutClass.InClass inClass = outClass.new InClass();
 		inClass.inTest();
+		System.out.println();
 		
 		//외부 클래스 생성하지 않고 바로 정적 내부 클래스 생성
 		OutClass.InStaticClass sInClass = new OutClass.InStaticClass();

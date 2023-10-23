@@ -6,8 +6,11 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="yyyy"/>
+		<item key="selection" value="Person"/>
 		<list key="findhistory">
+			<item value="Person"/>
+			<item value="join"/>
+			<item value="ated method stub"/>
 			<item value="yyyy"/>
 			<item value="yyyy\"/>
 			<item value=", "/>
@@ -20,7 +23,6 @@
 			<item value="employeeId"/>
 			<item value="setSecond"/>
 			<item value="이순신, 30, 010-1234-5678, admiral@gmail.com, 서울, 80.6kg"/>
-			<item value="&#x09;&#x09;System.out.println(!(x &gt; 0));"/>
 		</list>
 		<list key="replacehistory">
 			<item value=""/>
